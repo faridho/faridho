@@ -1,9 +1,5 @@
 ![alt_text](assets/banner.png)
-### Hi guys,
-    I'a a ...
-
+### Hi guys 🤓
     ```
-    K['Drama', 'Pop', 'Food', 'Culture']
+    I am a K['Drama', 'Pop', 'Food', 'Culture'] who intereseted with programming
     ``` 
-    ... who intereseted with programming
-  
